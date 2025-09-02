@@ -1,0 +1,37 @@
+[
+  {
+    "context": "张三在北京大学读书。",
+    "span_posLabel": {
+      "0;1": "PER",
+      "3;5": "LOC",
+      "6;9": "ORG"
+    }
+  },
+  {
+    "context": "李四在上海交通大学工作。",
+    "span_posLabel": {
+      "0;1": "PER",
+      "3;5": "LOC",
+      "6;10": "ORG"
+    }
+  },
+  {
+    "context": "王五是一名学生，他住在广州市。",
+    "span_posLabel": {
+      "0;1": "PER",
+      "8;10": "LOC"
+    }
+  },
+  {
+    "context": "清华大学是中国著名的高等学府。",
+    "span_posLabel": {
+      "0;3": "ORG"
+    }
+  },
+  {
+    "context": "明天我要去北京旅游。",
+    "span_posLabel": {
+      "6;8": "LOC"
+    }
+  }
+]
